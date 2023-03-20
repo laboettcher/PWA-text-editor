@@ -3,9 +3,7 @@
 
 ## Description
 
-```
-This challenge was to build an API for a social network app where users can add friends, create and share "thoughts," and react to their friends’ thoughts.
-```
+This challenge
 
 ## Tabe of Contents
 
